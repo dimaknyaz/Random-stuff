@@ -1,1 +1,1 @@
-# Academic-skills
+Random notebooks, sometimes cool, usually not
